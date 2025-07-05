@@ -1,0 +1,42 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8"/>
+  <title>Making an Omellete</title>
+</head>
+
+<body>
+<h1>Making Our First Omellete</h1>
+<p>Everyone knows I am <strong>terrible at cooking</strong>, however I think its time for me to start a series where I make recipes of dishes that I know a thing or two about...but nothing more. </p>
+
+<figure>
+<img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="picture of eggs, milk and flour on the table with the intention of cooking" />
+<figcaption> A picture of great eggs I found</figcaption>
+</figure>
+
+<h2>Ingredients</h2>
+<ul>
+<li>Probably Eggs</li>
+<li>Some Salt</li>
+<li>Milk if you care</li>
+<li>Some Salt</li>
+</ul>
+
+<h2>Instructions</h2>
+<ol>
+<li>Break some eggs</li>
+<li>Whisk them together into a mess</li>
+<li>Put them on a skillet and add a drop of milk</li>
+<li>Wait for them to all burn down </li>
+</ol>
+
+
+</body>
+
+</html>
+
+** end of index.html **
+
